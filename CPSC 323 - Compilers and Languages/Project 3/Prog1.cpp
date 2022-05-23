@@ -4,6 +4,24 @@ Professor Hermans
 CPSC 323 Section 03 
 2 May 2022
 */
+
+/*
+Same as the last problem in Project 2 (problem 6), include the S-->a=E  rule to the beginning of the grammar so that the grammar becomes this :
+S -> a = E
+E -> E+T     
+E-> E- T      
+E-> T
+T->T*F       
+T->T/F        
+T->F
+F->a             
+F->b           
+F—> ( E )
+
+Write a program to determine which of the following input strings are accepted or rejected by the grammar: 
+(i) a = (a + a )*b$ , (ii) a=a*(b -a)$ , (iii) a=(a+a)b$. 
+*/
+
 #include <iostream>
 #include <string>
 #include <sstream>
