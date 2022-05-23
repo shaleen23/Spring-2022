@@ -1,0 +1,21 @@
+//declare variables
+
+int      num1,     nume2,  num3   ,t ;
+
+
+
+//initialize variables 
+
+num1    =13;    num2 =     55      ;
+
+           num3         =                17     ;
+
+
+//compute and display their total
+
+t=            num2   +   num3; //compute sum
+
+t      =      t+num1;  //compute new value for tl
+
+
+cout<<     t      ;   
