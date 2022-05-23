@@ -1,9 +1,3 @@
-/*
-Shaleen Mathur
-Professor Hermans 
-CPSC 323 Section 03 
-2 May 2022
-*/
 
 /*
 Write a program to read a postfix expression and compute its value. Submit it as Prog2. 
