@@ -4,6 +4,40 @@ Professor Hermans
 CPSC 323 Section 03 
 2 May 2022
 */
+
+/*
+Write a program to read a postfix expression and compute its value. Submit it as Prog2. 
+All variables are single letters, of type integer, and their value must be entered by the user.
+
+     Sample I/O
+
+             Enter a postfix expression with a $ at the end: ab*ac+*$
+
+                 Enter the value of a: 2
+
+                 Enter the value of b: 3
+
+                 Enter the value of c: 4
+
+                          Final value= 36
+
+             Continue(y/n)? y
+
+ 
+
+             Enter a postfix expression with $ at the end: beef*++$
+
+                 Enter the value of b: 2
+
+                 Enter the value of e: 3
+
+                 Enter the value of f: 4            
+
+                               Final value= 17
+
+Continue(y/n)? n 
+*/
+
 #include <iostream>
 #include <map>
 #include <string>
