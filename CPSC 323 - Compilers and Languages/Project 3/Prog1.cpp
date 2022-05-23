@@ -1,9 +1,3 @@
-/*
-Shaleen Mathur
-Professor Hermans 
-CPSC 323 Section 03 
-2 May 2022
-*/
 
 /*
 Same as the last problem in Project 2 (problem 6), include the S-->a=E  rule to the beginning of the grammar so that the grammar becomes this :
