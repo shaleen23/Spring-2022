@@ -1,9 +1,9 @@
+
 /*
-Shaleen Mathur
-Professor Hermans 
-CPSC 323 Section 03 
-2 May 2022
+Given the following CFG and the LR parsing table, write a program to trace input strings over the alphabet { i, +, - , *, / ), ( } and ending with $.  
+Test it on two input strings (1) (i+i)*i$   and    (2) (i*)$.  
 */
+
 #include <iostream>
 #include <string>
 #include <sstream>
